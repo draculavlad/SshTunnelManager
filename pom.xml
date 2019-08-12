@@ -24,7 +24,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <log4j2.version>2.11.1</log4j2.version>
     <netty.version>4.1.34.Final</netty.version>
-    <jackson.version>2.9.8</jackson.version>
+    <jackson.version>2.9.9.2</jackson.version>
   </properties>
 
   <dependencyManagement>
